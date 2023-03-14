@@ -13,7 +13,7 @@ code {
 }
 
 .app {
-  background: #53616a;
+  background: #878787;
   padding: 30px;
   height: 100vh;
 }
@@ -36,6 +36,7 @@ code {
   align-items: center;
   justify-content: space-between;
 }
+
 
 .input{
   width: 100%;
